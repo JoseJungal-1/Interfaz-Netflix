@@ -7,7 +7,9 @@ Este proyecto consiste en la réplica visual y detallada de la interfaz de usuar
 **Tecnologías Usadas**
 
 **HTML5**:Estructuración del contenido. 
-**CSS3**: Diseño, maquetación y estilos visuales. 
+
+**CSS3**: Diseño, maquetación y estilos visuales.
+
 **Editor**: Desarrollado utilizando Visual Studio Code.
 
 **Características Principales**
